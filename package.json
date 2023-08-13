@@ -2,7 +2,7 @@
   "name": "shezlong-task",
   "version": "1.0.0",
   "description": "",
-  "main": "test.js",
+  "main": "index.js",
   "scripts": {
     "dev": "index.js",
     "test": "jest"
